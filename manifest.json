@@ -1,0 +1,19 @@
+  {
+    "name": "tiny-nanny",
+    "version": "1",
+    "description": "Restrict access to some sites. DIY without comprimising on privacy",
+    "permissions": ["webRequest",
+        "webRequestBlocking",
+    "http://*/","https://*/"],
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": true
+    },
+    "icons": {
+      "16": "images/link16.png",
+      "32": "images/link32.png",
+      "48": "images/link48.png",
+      "128": "images/link128.png"
+    },
+    "manifest_version": 2
+  }
