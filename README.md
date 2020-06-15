@@ -1,5 +1,6 @@
 # diy-nanny
-Personal website blocker for productivity.
+Personal website blocker for productivity. Block your own time wasters. 
+
 Third party blockers exist all over, but do you really want to give up your privacy? 
 This has almost no code, see for yourself what it does. 
 
