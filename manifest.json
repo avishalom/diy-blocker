@@ -1,7 +1,7 @@
   {
-    "name": "tiny-nanny",
+    "name": "DIY nanny",
     "version": "1",
-    "description": "Restrict access to some sites. DIY without comprimising on privacy",
+    "description": "Restrict access to some sites. Redirect to a site of your choice. DIY without comprimising on privacy",
     "permissions": ["webRequest",
         "webRequestBlocking",
     "http://*/","https://*/"],
